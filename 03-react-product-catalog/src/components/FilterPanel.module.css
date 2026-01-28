@@ -1,0 +1,57 @@
+/* src/components/FilterPanel.module.css */
+.filterPanel {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .filterGroup {
+    margin-top: 20px;
+  }
+  
+  .filterLabel {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .filterInput {
+    .filterPanel {
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+    
+    .priceRangeValues {
+      font-size: 0.9em;
+      color: #7d7d7d;
+      margin-bottom: 8px;
+    }
+    
+    .priceInputs {
+      display: flex;
+      align-items: center;
+    }
+    
+    .priceInputs input {
+      width: 70px;
+      padding: 5px;
+      font-size: 1em;
+    }
+    
+    .priceInputs .dash {
+      margin: 0 10px;
+      color: #7d7d7d;
+    }
+    
+    margin-bottom: 8px;
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .colorCheckbox label {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  

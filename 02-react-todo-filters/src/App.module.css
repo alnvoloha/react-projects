@@ -1,0 +1,41 @@
+.appContainer {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .contentContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .mainContainer {
+    flex: 1;
+    margin-left: 20px;
+  }
+  
+  .title {
+    text-align: center;
+  }
+  
+  body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+  }
+  
+  button {
+    font-family: inherit;
+  }
+  
+  input, textarea {
+    font-family: inherit;
+  }
+  
