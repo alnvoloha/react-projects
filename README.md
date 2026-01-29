@@ -39,19 +39,26 @@ A curated collection of my React apps showing practical skills in **UI developme
 ## Previews
 
 ### 05 — Notion Lite (Redux)
-*(сюда вставить GIF: `assets/previews/05-notion-lite-redux.gif`)*
+<p align="center">
+  <img src="assets/previews/05-notion-lite-redux.gif" width="700" alt="Notion Lite (Redux)" />
+</p>
 
 ### 03 — Product Catalog
-*(сюда вставить GIF: `assets/previews/03-react-product-catalog.gif`)*
+<p align="center">
+  <img src="assets/previews/03-react-product-catalog.gif" width="700" alt="Product Catalog" /></p>
 
 ### 04 — API Explorer
-*(сюда вставить GIF: `assets/previews/04-react-api-explorer.gif`)*
+<p align="center">
+  <img src="assets/previews/04-react-api-explorer.gif" width="700" alt="API Explorer" /></p>
 
 ### 02 — Todo (Filters & Search)
-*(сюда вставить GIF: `assets/previews/02-react-todo-filters.gif`)*
+<p align="center">
+  <img src="assets/previews/02-react-todo-filters.gif" width="700" alt="Todo Filters Preview" /></p>
 
 ### 01 — Todo (Basic)
-*(сюда вставить GIF: `assets/previews/01-react-todo-basic.gif`)*
+<p align="center">
+  <img src="assets/previews/01-react-todo-basic.gif" width="700" alt="Todo Basic Preview" />
+</p>
 
 ---
 
