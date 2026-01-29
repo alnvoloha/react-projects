@@ -12,13 +12,6 @@ A curated collection of my React apps showing practical skills in **UI developme
   <img src="assets/previews/05-notion-lite-redux.gif" width="420" alt="Notion Lite (Redux)" />
 </p>
 
-
-![Todo Basic Preview](assets/previews/01-react-todo-basic.gif)
-![Todo Basic Preview](assets/previews/02-react-todo-filters.gif)
-![Todo Basic Preview](assets/previews/03-react-product-catalog.gif)
-![Todo Basic Preview](assets/previews/04-react-api-explorer.gif)
-![Todo Basic Preview](assets/previews/05-notion-lite-redux.gif)
-
 ---
 
 ## Start here (suggested order)
