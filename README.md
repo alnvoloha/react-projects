@@ -4,6 +4,15 @@ A curated collection of my React apps showing practical skills in **UI developme
 
 🌐 Live page: https://alnvoloha.github.io/react-projects/
 
+<p align="center">
+  <img src="assets/previews/01-react-todo-basic.gif" width="420" alt="Todo Basic Preview" />
+  <img src="assets/previews/02-react-todo-filters.gif" width="420" alt="Todo Filters Preview" />
+  <img src="assets/previews/03-react-product-catalog.gif" width="420" alt="Product Catalog" />
+  <img src="assets/previews/04-react-api-explorer.gif" width="420" alt="API Explorer" />
+  <img src="assets/previews/05-notion-lite-redux.gif" width="420" alt="Notion Lite (Redux)" />
+</p>
+
+
 ![Todo Basic Preview](assets/previews/01-react-todo-basic.gif)
 ![Todo Basic Preview](assets/previews/02-react-todo-filters.gif)
 ![Todo Basic Preview](assets/previews/03-react-product-catalog.gif)
